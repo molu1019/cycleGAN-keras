@@ -1,2 +1,2 @@
-# cycleGAN-keras
+# CycleGAN
 CycleGAN as Tensorflow Keras implementation
